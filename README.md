@@ -4,9 +4,9 @@
 
 Exercicio   | Link
 :---------: | :------:
-Exercicio 01  | [Link](/exerc01/readme.md)
-Exercicio 02  | [Link](/exerc02/readme.md)
-Exercicio 03  | [Link](/exerc03/readme.md)
+Exercicio 01  | [Link](/exerc01)
+Exercicio 02  | [Link](/exerc02)
+Exercicio 03  | [Link](/exerc03)
 
 
 
